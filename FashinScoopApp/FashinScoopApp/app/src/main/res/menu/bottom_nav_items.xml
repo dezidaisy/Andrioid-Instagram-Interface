@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_bookmark"
+        android:title="@string/text_bookmark"
+        android:icon="@drawable/blackgallon"
+        />
+
+    <item
+        android:id="@+id/menu_trending"
+        android:title="@string/text_trending"
+        android:icon="@drawable/fire"
+        />
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/text_profile"
+        android:icon="@drawable/user" />
+
+    <item
+        android:id="@+id/menu_chat"
+        android:title="@string/text_chat"
+        android:icon="@drawable/chat" />
+</menu>
